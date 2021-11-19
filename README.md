@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-<br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="./assets/Night-Coding.gif">
 </a>
@@ -19,6 +17,12 @@
 - ⚡ I'm a **Fullstack Developer**
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 a **Mobile App** and some **Web Apps**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
   <br/>
 
 #
@@ -67,14 +71,12 @@
 
 <p align="center">
 <a href="https://github.com/KevinImbott">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinImbott&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinImbott&layout=compact&langs_count=8&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinImbott&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinImbott&layout=compact&langs_count=8&theme=dracula"/>
   <br/>
   <img src="./assets/github-contribution-grid-snake.gif" style="max-width:100%;">
-  
 </a>
 </p>
-
 </details>
 <br>
 
