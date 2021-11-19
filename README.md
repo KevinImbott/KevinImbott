@@ -21,15 +21,14 @@
   <br/>
   <br/>
   <br/>
-  <br/>
 
 #
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="./assets/cat.gif"></a>
+<br/>
+<br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"></code>
 <code><img height="40" width="40" src="https://www.pngkit.com/png/full/70-701654_python-logo-png-clipart-python-programming-a-comprehensive.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
