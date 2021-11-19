@@ -80,7 +80,7 @@
 
 #
 
-<h1>
+<h1 align="center">
   Connect With Me
   <a target="_blank">
     <img src="./assets/Handshake.gif" height="25px" style="max-width:100%;">
