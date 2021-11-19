@@ -13,7 +13,7 @@
 </a>
 
 - 😄 𝙸’𝚖 **Kevin Imbott**
-- 👯 I'm a student at **EPITECH PARIS**
+- 👯 I'm a student from **EPITECH PARIS**
 - ⚡ I'm a **Fullstack Developer**
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 a **Mobile App** and some **Web Apps**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
