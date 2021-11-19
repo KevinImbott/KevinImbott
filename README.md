@@ -21,10 +21,12 @@
   <br/>
   <br/>
   <br/>
+  <br/>
 
 #
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="./assets/cat.gif"></a>
+<br/>
 <br/>
 <br/>
 
