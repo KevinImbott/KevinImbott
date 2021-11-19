@@ -95,7 +95,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/kevin-imbott-877773183/" target="_blank">
-    <code><img height="60" width="60" src="./assets/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="./assets/LinkedIn_logo.png"/></code>
   </a>
 </p>
 
