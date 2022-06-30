@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img  src="./assets/luffy.gif" width="40px" style="max-width:100%;">
+    <img  src="./assets/luffy.gif" width="40" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;@3very_0ne/&gt;!
   <a target="_blank">
-    <img  src="./assets/luffy.gif" width="40px" />
+    <img  src="./assets/luffy.gif" width="40" />
   </a>
 </h1>
 
