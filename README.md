@@ -14,7 +14,7 @@
 
 - 😄 𝙸’𝚖 **Kevin Imbott**
 - 👯 I'm a student from **EPITECH PARIS**
-- ⚡ I'm a **Fullstack Developer**
+- ⚡ I'm a **Fullstack Developer** at [C'Evidentia](https://cevidentia.com/)
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 a **Mobile App** and some **Web Apps**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
   <br/>
@@ -49,7 +49,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="120" src="https://elixir-sante.fr//static/elixir/img/v2/Elixir-logo-white-light-margin.png"></code>
+
 
 <!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 
